@@ -28,7 +28,7 @@ require (
 	github.com/swaggo/swag v1.16.6
 	github.com/ulule/limiter/v3 v3.11.2
 	go.uber.org/fx v1.22.0
-	go.uber.org/zap v1.27.0
+	go.uber.org/zap v1.28.0
 	golang.org/x/crypto v0.57.0
 	golang.org/x/oauth2 v0.34.0
 	google.golang.org/api v0.231.0
