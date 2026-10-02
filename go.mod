@@ -30,7 +30,7 @@ require (
 	go.uber.org/fx v1.22.0
 	go.uber.org/zap v1.27.0
 	golang.org/x/crypto v0.57.0
-	golang.org/x/oauth2 v0.34.0
+	golang.org/x/oauth2 v0.37.0
 	google.golang.org/api v0.231.0
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
 	gorm.io/driver/postgres v1.5.11
