@@ -7,7 +7,7 @@ toolchain go1.24.3
 require (
 	firebase.google.com/go/v4 v4.18.0
 	github.com/appleboy/gin-jwt/v2 v2.9.2
-	github.com/aws/aws-sdk-go v1.55.7
+	github.com/aws/aws-sdk-go v1.55.8
 	github.com/gin-contrib/cors v1.7.2
 	github.com/gin-gonic/gin v1.11.0
 	github.com/glebarez/sqlite v1.11.0
